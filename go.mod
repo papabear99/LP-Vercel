@@ -21,9 +21,9 @@ require (
 	github.com/peterbourgon/ff/v3 v3.3.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.14.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.4
 	github.com/testcontainers/testcontainers-go v0.12.0
-	github.com/urfave/cli v1.22.12
+	github.com/urfave/cli v1.22.14
 	go.opencensus.io v0.24.0
 	go.uber.org/goleak v1.2.2-0.20230213210001-751da596f6f7
 	golang.org/x/net v0.8.0
